@@ -58,3 +58,21 @@ Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in fr
 ## ✏️ Technical Writing
 
 - 👻 [Do you like scary movies?](https://www.twilio.com/blog/do-you-like-scary-movies-build-a-halloween-project-with-twilio) | October 31, 2022
+- 📝 [Summarize Text from Images using AI and Twilio](https://www.twilio.com/blog/summarize-text-from-images-using-ai-and-twilio) | September 1, 2022
+- 🏀 [Get the Latest NBA News Sent to your Phone via SMS](https://www.twilio.com/blog/get-the-latest-nba-news-sent-to-your-phone-via-sms) | July 21, 2022
+- 👋 [Introducing Developer Evangelist Anthony Dellavecchia](https://www.twilio.com/blog/introducing-twilio-developer-evangelist-anthony-dellavecchia) | June 2, 2022
+- 🤖 [What are APIs Part 2](https://anthonydellavecchia.com/blog/what-are-apis-2/) | March 10, 2022
+- 🤖 [What are APIs Part 1](https://anthonydellavecchia.com/blog/what-are-apis-1/) | February 9, 2022
+- 🖊️ [Fonts for Programmers](https://anthonydellavecchia.com/blog/fonts-for-programmers/) | January 27, 2022
+- 🎨 [Updating my Avatar](https://anthonydellavecchia.com/blog/updating-my-avatar/) | January 19, 2022
+- 💽 [MongoDB Atlas Hackathon](https://anthonydellavecchia.com/blog/mongodb-atlas-hackathon/) | January 17, 2022
+- 😈 [Rogue Dev Purposely Breaks Software](https://anthonydellavecchia.com/blog/rogue-dev-purposely-breaks-software/) | January 9, 2022
+- 🔍 [How to Add Search to your Hugo Static Site](https://anthonydellavecchia.com/blog/how-to-add-search-to-your-hugo-static-site/) | January 8, 2022
+- 9️⃣ [Is 99 Good?](https://anthonydellavecchia.com/blog/is-99-good/) | January 4, 2022
+- 📩 [How to Forward Emails to your Domain](https://anthonydellavecchia.com/blog/how-to-forward-emails-to-your-domain/) | December 30, 2021
+- 🌐 [Launch Insights](https://anthonydellavecchia.com/blog/launch-insights/) | December 28, 2021
+- 👀 [How to Check your Website Users](https://anthonydellavecchia.com/blog/how-to-check-your-website-users/) | December 4, 2021
+- 👋 [How to Animate an Emoji with CSS](https://anthonydellavecchia.com/blog/how-to-animate-an-emoji-with-css/) | December 1, 2021
+- 👨‍🎨 [Designing an Animated Logo](https://anthonydellavecchia.com/blog/designing-an-animated-logo/) | October 25, 2021
+- 🧙 [Magic Numbers](https://anthonydellavecchia.com/blog/magic-numbers/) | April 17, 2021
+- 💼 [How to Never Miss Out on a Job Opening](https://anthonydellavecchia.com/blog/how-to-never-miss-out-on-a-job-opening/) | March 21, 2018
