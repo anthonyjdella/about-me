@@ -36,7 +36,7 @@ Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in fr
 
 
 - [Summarize Text from Images](https://github.com/anthonyjdella/summarize-text) | Take a picture of book, get a text with a summary of what it says
-- [TwilioQuest Extension](https://github.com/anthonyjdella/twilio-quest-booth-mission) | A TwilioQuest extension with player challenges to teach them Twilio APIs
+- [TwilioQuest Extension](https://github.com/anthonyjdella/twilio-quest-booth-mission) | A video game extenstion for TwilioQuest with player challenges to teach Twilio APIs
 - [NBA News](https://github.com/anthonyjdella/nba-news) | A simple app that texts you NBA news
 - [Personal Site](https://github.com/anthonyjdella/personal-website) | My website that showcases some work I've done
 - [New Job Alerts](https://github.com/anthonyjdella/automated-job-web-scraping) | A web scraper that searches for jobs and sends you an email with those listings
