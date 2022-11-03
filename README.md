@@ -61,6 +61,7 @@ Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in fr
 
 ## ✏️ Technical Writing
 
+- 🤝 [Gaining Trust in APIs](https://anthonydellavecchia.com/blog/gaining_trust_in_apis/) | November 2, 2022
 - 👻 [Do you like scary movies?](https://www.twilio.com/blog/do-you-like-scary-movies-build-a-halloween-project-with-twilio) | October 31, 2022
 - 📝 [Summarize Text from Images using AI and Twilio](https://www.twilio.com/blog/summarize-text-from-images-using-ai-and-twilio) | September 1, 2022
 - 🏀 [Get the Latest NBA News Sent to your Phone via SMS](https://www.twilio.com/blog/get-the-latest-nba-news-sent-to-your-phone-via-sms) | July 21, 2022
