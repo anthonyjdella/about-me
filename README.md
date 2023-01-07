@@ -55,6 +55,7 @@ Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in fr
 | [API Days NYC](https://www.apidays.global/new-york/) | NYC,&nbsp;🗽 | July 28, 2022 | Workshop, [Let's Live Code an App that Texts NBA News](https://www.twilio.com/blog/get-the-latest-nba-news-sent-to-your-phone-via-sms) | [📹&nbsp;Video](https://www.youtube.com/watch?v=LnfYf6baTQs) |
 | [API Days NYC](https://www.apidays.global/new-york/) | NYC,&nbsp;🗽 | July 28, 2022 | Talk, [Gaining Trust in APIs and What to Look For](https://anthonydellavecchia.com/blog/gaining_trust_in_apis/) | [📹&nbsp;Video](https://www.youtube.com/watch?v=elgcCqnNeEs) |
 | [Transform Together Superclass 2022](https://www.twilioengageeverywhere.com/chicago/home) | Chicago,&nbsp;🍕 | June 16, 2022 | [Mars Rover Emails with Twilio Sendgrid](https://www.twilio.com/blog/mars-rover-emails-with-python-and-twilio-sendgrid) | [🖥&nbsp;Slides](https://noti.st/anthonyjdella/6TEdbM/mars-rover-emails-with-twilio-sendgrid) |
+| [State Farm](https://www.statefarm.com/) | Dallas,&nbsp;🤠 | December 12, 2021 | Talk, [What is Chaos Engineering?](https://soundcloud.com/anthony-dellavecchia/what-is-chaos-engineering?si=ffec7e78bfa5410c9611513b331e8095&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) | [🎤&nbsp;Audio](https://soundcloud.com/anthony-dellavecchia/what-is-chaos-engineering?si=ffec7e78bfa5410c9611513b331e8095&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) |
 
 
 
