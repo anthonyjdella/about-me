@@ -20,6 +20,7 @@ Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in fr
 - 🐦 [Twitter @anthonyjdella](https://twitter.com/anthonyjdella)
 - 💼 [LinkedIn @anthonydellavecchia](https://www.linkedin.com/in/anthonydellavecchia/)
 - :octocat: [GitHub @anthonyjdella](https://github.com/anthonyjdella)
+- 📹 [Twitch](https://www.twitch.tv/anthonyjdella)
 - 🕺 [TikTok @anthonyjdella](https://tiktok.com/@anthonyjdella)
 - ❇️ [Polywork @anthonyjdella](https://www.polywork.com/anthonyjdella)
 - 📓 [Dev.to @anthonyjdella](https://dev.to/anthonyjdella)
