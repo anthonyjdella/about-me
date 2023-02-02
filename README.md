@@ -13,7 +13,7 @@
 
 ## 👨‍💻 Biography
 
-Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in front of a crowd. He is an experienced software developer who teaches thousands of people how to build cool things with code. His goal is to help you build deep experiences and connections with technology so that they stick with you forever. Check him out on most socials @anthonyjdella.
+Anthony is a Staff Developer Evangelist at Twilio who writes code on stage in front of a crowd. He is an experienced software developer who aims to teach and inspire thousands of developers to change the world with code. His goal is to help you build deep experiences and connections with technology so that they stick with you forever. Check him out on most socials @anthonyjdella.
 
 ## 👥 Social
 
